@@ -50,6 +50,7 @@ vector<string> parseCSV(string row) {
 
 int main() {
     
+    cout << endl;
     cout << COURSE << endl;
     cout << STUDENT_NAME << " " << STUDENT_ID << endl;
     cout << "Language: " << LANGUAGE << endl << endl;
