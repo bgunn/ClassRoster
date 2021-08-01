@@ -3,6 +3,8 @@ Build/
 *.pbxuser
 *.mode1v3
 
+.DS_Store
+
 # Prerequisites
 *.d
 
